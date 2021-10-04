@@ -19,3 +19,8 @@ Windows Terminal changes:
 1. Change the starting directory to home `\\wsl$\Ubuntu\home\lewis`
 2. Change colour scheme to One Half Dark
 3. Change font face to Roboto Mono
+
+Install node
+1. Restart terminal
+2. Run `nvm install --lts`
+
