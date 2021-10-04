@@ -1,6 +1,6 @@
 [user]
-	name = John Doe
-	email = johndoe@foobar.com
+	name = HeeNee Sia
+	email = hns@timelog.com
 [credential]
 	helper = /mnt/c/Program\\ Files/Git/mingw64/libexec/git-core/git-credential-manager-core.exe
 	useHttpPath = true
