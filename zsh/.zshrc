@@ -105,3 +105,6 @@ export PATH="/home/hns/.local/bin:$PATH"
 # Generated for envman. Do not edit.
 [ -s "$HOME/.config/envman/load.sh" ] && source "$HOME/.config/envman/load.sh"
 
+#Bypass TLP
+export REACT_APP_BYPASS_TLP=false
+export REACT_APP_ENABLE_MOCK=false
