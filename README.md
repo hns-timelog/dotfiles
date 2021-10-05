@@ -23,4 +23,5 @@ Windows Terminal changes:
 Install node
 1. Restart terminal
 2. Run `nvm install --lts`
+3. Run `nvm alias default 14`
 
